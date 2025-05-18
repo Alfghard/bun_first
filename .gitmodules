@@ -1,0 +1,3 @@
+[submodule "bun-rest-api"]
+	path = bun-rest-api
+	url = git://github.com:Alfghard/bun_first.git
